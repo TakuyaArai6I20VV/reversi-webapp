@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="QhsZjgx-OlMHLI6aOrRZ" name="ページ1">
+        <mxGraphModel dx="477" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="リバーシアプリケーション" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="180" width="300" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="対戦する" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="95" y="60" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="過去の対戦結果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="30" y="130" width="240" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="リバーシアプリケーション" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="180" width="300" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="白の番はスキップです" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6">
+                    <mxGeometry x="65" y="60" width="165" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="盤面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6">
+                    <mxGeometry x="65" y="110" width="170" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="次は黒の番です" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="515" y="415" width="110" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
